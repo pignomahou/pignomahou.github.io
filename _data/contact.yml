@@ -39,4 +39,4 @@
 #   icon: 'fa-brands fa-threads'
 #   url: ''                   # Fill with your Threads profile link
 
-hide_avatar: true
+- hide_avatar: true
