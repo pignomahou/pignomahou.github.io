@@ -3,6 +3,7 @@ title: "「ピッグの魔法使い」：Teaser"
 date: 2025-11-27 17:02:26 +0900
 categories: [戯曲]
 tags: [teaser,プロローグ,ミッキー,魔法界,巨人]
+weight: 2
 ---
 
 ## 登場人物・用語  
