@@ -1,5 +1,5 @@
 ---
-title: the early part TEH EARLY PART
+title: TEH EARLY PART EARLY PART
 date: 2025-11-29 13:34:00 +0900
 categories: [drama]
 tags: [drama]
