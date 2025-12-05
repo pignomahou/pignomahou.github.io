@@ -4,7 +4,9 @@ date: 2025-11-24 13:34:00 +0900
 categories: [literature]
 tags: [drama]
 ---
-## <h2 style="text-align: center;">１</h2>
+
+{: .center-text }
+## １
 
 **場所** ：<br>
 ヒミツトオリ　<br>
