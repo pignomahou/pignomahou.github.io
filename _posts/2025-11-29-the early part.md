@@ -5,7 +5,7 @@ categories: [literature]
 tags: [drama]
 ---
 
-## 　　　　　　１
+## 　　　　　　１　
 
 場所：
 ヒミツトオリ　秋の夜長パンプキン店
