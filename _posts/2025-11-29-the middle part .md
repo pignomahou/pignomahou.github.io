@@ -6,7 +6,6 @@ tags: [drama]
 ---
 ## １
 ---
-†<br>
 †&nbsp;&nbsp;**時間** ：<br>
 　過去<br>
 **場面**：<br>
