@@ -28,7 +28,7 @@ tags: [drama]
 ラン： <br>
 　人は、死ねば終わりよ  <br> <br> <br>
 
-♱&nbsp;&nbsp; ラン：  <br>
+*&nbsp;&nbsp; ラン：  <br>
 　もちろん私は魔法省に入るわ  <br>
 
 ハラペコ：  <br>
@@ -47,4 +47,6 @@ tags: [drama]
 　行かない  <br>
 
 ラン：  <br>
-　そう、じゃあ、また後でね  <br>
+　そう、じゃあ、また後でね  <br><br><br>
+
+ ♱&nbsp;&nbsp; 『エルザとオギノの演劇のテーマ』 <br><br><br>
